@@ -1,0 +1,1 @@
+To alleviate the dilemma of slow convergence and poor stability when using heuristic algorithms, we propose a combined offloading algorithm, i.e., Gini coefficient based adaptive genetic algorithm (GCAGA), which optimizes the offloading decision by maximizing EoU. We compared the proposed algorithm with the genetic algorithm (GA) and adaptive genetic algorithm (AGA). 
